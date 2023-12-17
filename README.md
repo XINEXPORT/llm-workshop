@@ -10,7 +10,7 @@
  # How to Open Files
  - make sure you have a gmail account and login to it
  - download all the files and store a local copy on your computer
- - open the Google Collab files in your browser by double clicking the files
+ - open the Google Colab files in your browser by double clicking the files
  - execute each module sequentially
    - the responses should be green
    - the response should be a combo of an array of embedded coordinates or responses from the LLM
